@@ -4,6 +4,10 @@
 
 Better YouTube Downloader is a user-friendly, cross-platform desktop application that allows you to download and convert media from YouTube with ease. Whether you want to download audio tracks, video files, or entire playlists, this tool provides a simple and intuitive interface to meet your media downloading needs.
 
+## 📸 Application Screenshot
+
+![YouTube Media Downloader Interface](ss.png)
+
 ## ✨ Features
 
 - **Multiple Download Types**
